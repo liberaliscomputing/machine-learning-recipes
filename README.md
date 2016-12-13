@@ -11,5 +11,5 @@
 + sklearn==0.0  
 
 ## Table of Contents
-1. Hello World  
-2. Visualizing a Decision Tree  
+1. [Hello World](https://github.com/liberaliscomputing/machine-learning-recipes/blob/master/code/hello_world.py)  
+2. [Visualizing a Decision Tree](https://github.com/liberaliscomputing/machine-learning-recipes/blob/master/code/visualizing_decision_tree.py)  
