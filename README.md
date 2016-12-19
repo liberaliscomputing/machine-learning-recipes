@@ -20,3 +20,6 @@
 2. [Visualizing a Decision Tree](https://github.com/liberaliscomputing/machine-learning-recipes/blob/master/code/visualizing_decision_tree.py)  
 3. [What Makes a Good Feature](https://github.com/liberaliscomputing/machine-learning-recipes/blob/master/code/feature_exploration.ipynb)  
 4. [Let's Write a Pipeline](https://github.com/liberaliscomputing/machine-learning-recipes/blob/master/code/writing_pipeline.ipynb)  
+5. [Writing Our First Classifier](https://github.com/liberaliscomputing/machine-learning-recipes/blob/master/code/writing_our_first_classifier.ipynb)  
+6. [Train an Image Classifier with TensorFlow for Poets](https://github.com/liberaliscomputing/machine-learning-recipes/blob/master/code/training_image_classifier.ipynb)  
+7. [Classifying Handwrittem Digits with TF.Learn](https://github.com/liberaliscomputing/machine-learning-recipes/blob/master/code/classifying_handwrittem_digits.ipynb)  
