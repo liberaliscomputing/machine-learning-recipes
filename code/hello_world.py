@@ -28,7 +28,7 @@ labels = [0, 0, 1, 1]
 clf = tree.DecisionTreeClassifier()
 
 # Train the classifier
-clf = clf.fit(features, labels)
+clf.fit(features, labels)
 
 # Predict with a new example
 data = [[150, 0]]

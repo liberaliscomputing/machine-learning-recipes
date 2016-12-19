@@ -64,7 +64,7 @@ train_data = np.delete(iris.data, test_idx, axis=0)
 
 # Build and train a Decision Tree classifier
 clf = tree.DecisionTreeClassifier()
-clf = clf.fit(train_data, train_target)
+clf.fit(train_data, train_target)
 
 # Test the classifier
 # print test_target 
